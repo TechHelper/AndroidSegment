@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Segment">
+        <attr name="segmentFontAssetName" format="string" />
+        <attr name="segmentDrawable" format="reference" />
+        <attr name="segmentBackgroundColor" format="color" />
+        <attr name="segmentTextColor" format="color" />
+        <attr name="segmentTextSize" format="dimension" />
+    </declare-styleable>
+
+</resources>
