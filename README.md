@@ -3,6 +3,8 @@
 
 Add segments to your app easily and dynamically.
 
+![alt text](https://github.com/TechHelper/AndroidSegment/blob/master/app/Android%20Segment%20Widget.png?raw=true)
+
 ## Gradle dependency
 ```
 allprojects {
