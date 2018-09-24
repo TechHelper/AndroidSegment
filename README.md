@@ -13,7 +13,7 @@ repositories {
   }
 }
 
-compile 'com.techhelper.segment:AndroidSegment:1.0.0'
+implementation 'com.techhelper.segment:AndroidSegment:1.0.0'
 ```
 
 ## Steps to use this library
